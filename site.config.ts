@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: 'Charlieppark Devlog',
   domain: 'charlieppark.devlog.it',
-  author: 'Charlie Park',
+  author: 'CharliePark',
 
   // open graph metadata (optional)
   description: 'Charlie Park Developer Log',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: '',
+  github: 'charlieppark',
+  linkedin: 'charlieppark',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
